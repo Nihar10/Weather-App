@@ -1,5 +1,5 @@
 # weatherApp
-Link for the Website is https://weather-app-inky-kappa-79.vercel.app/
+Link for the Website is https://weather-app-nihar10.vercel.app/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
